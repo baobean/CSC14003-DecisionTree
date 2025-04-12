@@ -1,0 +1,15 @@
+name: decision-tree
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - notebook
+  - graphviz
+  - ipykernel
+  - ucimlrepo
