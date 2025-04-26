@@ -10,6 +10,6 @@ dependencies:
   - seaborn
   - jupyterlab
   - notebook
-  - graphviz
+  - python-graphviz
   - ipykernel
   - ucimlrepo
