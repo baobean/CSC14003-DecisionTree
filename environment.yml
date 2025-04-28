@@ -13,3 +13,4 @@ dependencies:
   - python-graphviz
   - ipykernel
   - ucimlrepo
+  - graphviz
